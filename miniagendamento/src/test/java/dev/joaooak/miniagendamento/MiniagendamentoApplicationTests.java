@@ -1,0 +1,13 @@
+package dev.joaooak.miniagendamento;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MiniagendamentoApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
